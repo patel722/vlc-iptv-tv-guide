@@ -10,7 +10,7 @@ function descriptor()
   return {
     title = "IPTV TV Guide",
     version = "3.0",
-    author = "ChatGPT",
+    author = "patel722",
     shortdesc = "Guide (NOW/NEXT) – compatible UI",
     description = "M3U guide + XMLTV now/next. Compatible with VLC Lua UI lacking dropdown:set_value().",
     capabilities = { "input-listener" }
